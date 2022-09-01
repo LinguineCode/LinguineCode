@@ -1,14 +1,14 @@
+![LinguineCode BBS](assets/terminal.svg)
+
 ![Build Status](https://img.shields.io/static/v1?&label=master&message=passing&color=green)
 [![Website](https://img.shields.io/website?label=https%3A%2F%2Flinguineco.de&url=https%3A%2F%2Flinguineco.de)](https://linguineco.de)
 [![Twitter](https://img.shields.io/twitter/follow/LinguineCode?style=social)](https://twitter.com/intent/follow?screen_name=LinguineCode)
 [![GitHub](https://img.shields.io/github/followers/LinguineCode?style=social)](https://github.com/LinguineCode)
 [![Homeostatis](https://img.shields.io/static/v1?label=Homeostasis%20is%20at&message=99%&color=critical)](https://media.giphy.com/media/tsdtnxbNsA8Wk/giphy.gif)
 
-![LinguineCode BBS](assets/terminal.svg)
-
 # :wave: Hi there!
 
-I am **_Sean Linguine_**, Technology Leader & AWS Cloud Native Architect because :microphone: YAML'ing ain't easy! :notes:
+I am **_Sean Linguine_**, Technology Leader & AWS Cloud Native Architect :microphone: because YAML'ing ain't easy :notes:
 
 ## :bowtie: They call me Sean The Automator
 
